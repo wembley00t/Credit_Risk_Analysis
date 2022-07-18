@@ -63,6 +63,10 @@ The below will desribe the balanced accuracy scores and the precision and recall
 * The high risk population precision is .09 with 92%  sensitivity and a F1 of .16.
 * The low risk population precision is 1 with 94% sensitivity and a F1 of .97.
 
+## Summary
+
+All of the machine learning models were skewed to the low risk population.  The high risk population had low precision metrics in all of the models.  Of the models, the Easy Ensemble had the stronger scores with a 93% balanced accuracy and sensitivity in the 90% range for both the high risk and low risk population.  As with the other models the high risk population precision was low.  With this, more testing of data should be completed before relying on any of the models used in this analysis.
+
 
 
 
