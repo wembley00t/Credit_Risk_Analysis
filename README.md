@@ -13,11 +13,11 @@ Using the credit card dataset from LendingClub, a peer-to-peer lending services 
 
 The below will desribe the balanced accuracy scores and the precision and recall scores of the six machine learning models.
 
-### Naive Random Oversampling
-### SMOTE Oversampling
-### Undersampling with Cluster Centroids Algorithm
-### Combination Over and Under Sampling with SMOTEENN
-### Balanced Random Forest Classifer
-### Easy Ensemble Classifier
+#### Naive Random Oversampling
+#### SMOTE Oversampling
+#### Undersampling with Cluster Centroids Algorithm
+#### Combination Over and Under Sampling with SMOTEENN
+#### Balanced Random Forest Classifer
+#### Easy Ensemble Classifier
 
 
